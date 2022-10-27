@@ -1,0 +1,2 @@
+rootProject.name = "Netflix atual Remake"
+include ':app'
